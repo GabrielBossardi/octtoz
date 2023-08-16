@@ -1,9 +1,5 @@
 # Octtoz
 
-## Context
-
-This project aims to explore different technologies and data team process management through a fictional company called Octtoz that provides data engineering services to other enterprises.
-
 ## Who we are?
 
 We are Octtoz, a company that offers top-notch data engineering services to our clients. We take pride in our ability to help businesses outsource their needs and achieve their goals. Our dedicated, skilled team is always ready to help you with your data engineering requirements.
